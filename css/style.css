@@ -48,7 +48,7 @@ html {
 #button-fix {
     z-index: 1;
     position: fixed;
-    top: 120px;
+    top: 60px;
     right: 100px;
 }
 
@@ -87,11 +87,14 @@ ul {
 
 }
 
-h1:nth-of-type(1) {
+h1 {
     color: yellow;
-    font-size: 40px;
 }
 
-h1:nth-of-type(2) {
-    color: red;
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
 }
