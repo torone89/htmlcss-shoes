@@ -1,5 +1,19 @@
-/* Color */
+/* Color Page */
 
+#red {
+    background-color: red;
+
+}
+
+#green {
+    background-color: green;
+
+}
+
+#yellow {
+    background-color: yellow;
+
+}
 
 /* Reset */
 * {
@@ -9,6 +23,10 @@
 }
 
 /* Generic */
+
+.full-page {
+    height: 100vw;
+}
 
 /* Utilities */
 
